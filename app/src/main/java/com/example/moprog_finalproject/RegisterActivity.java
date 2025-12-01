@@ -42,7 +42,7 @@ public class RegisterActivity extends AppCompatActivity {
             finish();
         });
 
-        btnRegister = findViewById(R.id.verifyBtn);
+        btnRegister = findViewById(R.id.registBtn);
         btnRegister.setOnClickListener(v ->{
             String fullname = etFullname.getText().toString().trim();
             String password = etPassword.getText().toString().trim();
