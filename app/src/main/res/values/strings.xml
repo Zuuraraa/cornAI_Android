@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoProg_FinalProject</string>
+    <string name="footer_terms">By continuing, you agree to our\n<b>Terms of Service</b> and <b>Privacy Policy</b>.</string>
+    <string name="text_login">Already have an account? <b>Login Here</b></string>
+</resources>
